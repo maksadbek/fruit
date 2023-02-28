@@ -1,2 +1,1 @@
-module fruit.com
-
+module github.com/maksadbek/fruit
