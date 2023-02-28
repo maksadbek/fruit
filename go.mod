@@ -1,1 +1,1 @@
-module fruit
+module github.com/maksadbek/fruit
